@@ -66,7 +66,7 @@ Turma teens Reprograma | Front-end básico | 2021 | Fundamentos de HTML e CSS II
 ### Sugestão de exercício para a semana
 > Entregas via Google Class
 1. Crie um arquivo .html e outro . css no seu editor VsCode
-2. Defina as configurações para o arquivo html como html:5
+2. Crie o template básico do HTML
 3. Nomeie o nome do seu documento como preferir
 4. Cria um elemento formulário que simule alguma demanda específica de um negócio. Exemplo: Consultório de dentista; cadastro de banco; login de site de relacionamentos, etc. Use sua criatividade :)
 5. Dentro do elemento form, utilize pelo menos 3 dos tipos de inputs que vimos durante as aulas da semana
